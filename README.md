@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on anything -- just let me know!
 - 📫 How to reach me:
   -> Matrix: @gspbirel56:chrrreeeeesss.com
-  -> Discord: chrrreeeeesss#9450
 
 <!---
 gspbirel56/gspbirel56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
